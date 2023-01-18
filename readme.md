@@ -1,6 +1,4 @@
-### Data Structures
-
----
+## Data Structures
 
 Data structures implementation with C++, Python and Java.
 
