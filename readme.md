@@ -6,3 +6,5 @@ Implemented structures so far:
 
 -   [ ] Linked List
 -   [ ] Hash Table
+-   [ ] Queue
+-   [ ] Stack
